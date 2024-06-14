@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: siwp2005_varlent_sort
+Version: 0.1.3
+Summary: Package that includes multiple sorting method
+Home-page: https://github.com/Varlent-2023/siwp2005-varlent-sort.git
+Author: Varlent AG
+Author-email: varlent.422023028@civitas.ukrida.ac.id
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
